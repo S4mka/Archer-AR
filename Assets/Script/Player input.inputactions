@@ -1,0 +1,34 @@
+{
+    "name": "Player input",
+    "maps": [
+        {
+            "name": "player",
+            "id": "3119efb9-a2fa-49ef-a6f2-f2f0c36c02d3",
+            "actions": [
+                {
+                    "name": "grab",
+                    "type": "Button",
+                    "id": "f087fd8d-8e83-4877-855e-3e0bb5d56056",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "616242ca-590c-4232-b6c4-6bac44dbf52d",
+                    "path": "<XRController>/{GripButton}",
+                    "interactions": "Hold",
+                    "processors": "",
+                    "groups": "",
+                    "action": "grab",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
