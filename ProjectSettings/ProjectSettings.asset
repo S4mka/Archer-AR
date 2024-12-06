@@ -17,7 +17,7 @@ PlayerSettings:
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
-  m_ShowUnitySplashScreen: 0
+  m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
   m_SplashScreenAnimation: 1
@@ -141,7 +141,10 @@ PlayerSettings:
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: 11400000, guid: 4e81d505a33bf654d977980e1c4bc3fe, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 25125ef2c64d8c34ca0eef16bf2e3188, type: 2}
+  - {fileID: -377551238662636210, guid: 74a119558ffa11445a688a3aa3c57115, type: 2}
+  - {fileID: -3718430169506344320, guid: cd56cfbf05ec1fd44aac460d1c6abf78, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
