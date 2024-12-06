@@ -142,6 +142,8 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: -944628639613478452, guid: 66fb30876468dda489c60824a458326c, type: 3}
+  - {fileID: 11400000, guid: 3b286cbdb6bb499419ef7d71ca8fbbd2, type: 2}
   - {fileID: 11400000, guid: 25125ef2c64d8c34ca0eef16bf2e3188, type: 2}
   - {fileID: -377551238662636210, guid: 74a119558ffa11445a688a3aa3c57115, type: 2}
   - {fileID: -3718430169506344320, guid: cd56cfbf05ec1fd44aac460d1c6abf78, type: 2}
@@ -238,6 +240,7 @@ PlayerSettings:
   iOSMetalForceHardShadows: 0
   metalEditorSupport: 1
   metalAPIValidation: 1
+  metalCompileShaderBinary: 0
   iOSRenderExtraFrameOnPause: 0
   iosCopyPluginsCodeInsteadOfSymlink: 0
   appleDeveloperTeamID: 
@@ -813,6 +816,7 @@ PlayerSettings:
   metroTileBackgroundColor: {r: 0.13333334, g: 0.17254902, b: 0.21568628, a: 0}
   metroSplashScreenBackgroundColor: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
   metroSplashScreenUseBackgroundColor: 0
+  syncCapabilities: 0
   platformCapabilities: {}
   metroTargetDeviceFamilies: {}
   metroFTAName: 
@@ -866,7 +870,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 6
-  activeInputHandler: 2
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
   cloudProjectId: f09ac7bf-3cb9-4bbc-a967-5a047bdd75f0
   framebufferDepthMemorylessMode: 0
